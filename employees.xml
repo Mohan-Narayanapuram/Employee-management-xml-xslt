@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employees-table.xsl"?>
+<employees>
+    <employee>
+        <empid>101</empid>
+        <name>Alice Johnson</name>
+        <dept>HR</dept>
+        <experience>5</experience>
+        <doj>2019-03-15</doj>
+    </employee>
+    <employee>
+        <empid>102</empid>
+        <name>Bob Smith</name>
+        <dept>IT</dept>
+        <experience>7</experience>
+        <doj>2017-07-22</doj>
+    </employee>
+    <employee>
+        <empid>103</empid>
+        <name>Charlie Brown</name>
+        <dept>Finance</dept>
+        <experience>3</experience>
+        <doj>2021-01-05</doj>
+    </employee>
+    <employee>
+        <empid>104</empid>
+        <name>Diana Prince</name>
+        <dept>Operations</dept>
+        <experience>10</experience>
+        <doj>2014-11-30</doj>
+    </employee>
+    <employee>
+        <empid>105</empid>
+        <name>Edward Green</name>
+        <dept>Marketing</dept>
+        <experience>4</experience>
+        <doj>2020-06-12</doj>
+    </employee>
+</employees>
